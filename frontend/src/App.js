@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API = 'http://localhost:5000/api';
+const API = 'https://taskflow-production-59b5.up.railway.app/api';
 
 /* ─── Google Fonts injected once ─── */
 const fontLink = document.createElement('link');
